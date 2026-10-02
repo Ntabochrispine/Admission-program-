@@ -1,4 +1,4 @@
-//Admisssion project to determine the course a student can be placed in based on their KCSE mean grade or the course they have completed.
+//Admission project to determine the course a student can be placed in based on their KCSE mean grade or the course they have completed.
 //The program prompts the user to enter their name, choose between using their KCSE mean grade or an alternative course, and then determines the appropriate course placement based on the input provided.
 //The project was an exercise in using conditional statements, loops, and string comparison in C programming.
 //The main purpose of this project is to demonstrate the ability to implement basic decision-making logic in a C program, while also practicing user input handling and string manipulation.

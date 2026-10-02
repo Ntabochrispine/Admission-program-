@@ -1,0 +1,9 @@
+# Ignore compiled executables
+*.exe
+
+# Ignore intermediate compilation objects
+*.obj
+
+# Ignore debugging symbols and database logs
+*.pdb
+*.ilk
